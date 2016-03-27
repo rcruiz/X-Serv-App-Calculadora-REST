@@ -3,7 +3,6 @@
 """
 Calculadora simple version REST
 Rosa Cristina Ruiz Rivas
-Alumna de SAT
 """
 
 import webapp
